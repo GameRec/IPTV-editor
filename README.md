@@ -15,7 +15,8 @@ A fast, lightweight, and clean desktop utility written in Python (Tkinter) desig
 - **Modern Clean UI:** Custom borderless window design with smooth mousewheel scrolling support.
 
 ## Usage
-
+1. Download iptve.exe and RUN
+## OR
 1. Make sure you have **Python 3.x** installed.
 2. Clone or download this repository.
 3. Run the script:
