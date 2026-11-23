@@ -1,5 +1,6 @@
 # M3U Playlist Category Cleaner
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gamerec)
+
 A fast, lightweight, and clean desktop utility written in Python (Tkinter) designed to parse, organize, filter, and clean large M3U/M3U8 IPTV playlist files.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
