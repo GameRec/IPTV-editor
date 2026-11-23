@@ -29,7 +29,7 @@ Click Load M3U File, uncheck the categories you want to exclude, check your live
 
 ## Support the Project
 
-If this plugin saves your clips and makes your workflow easier, consider buying me a coffee — it directly supports building more free tools for creators:
+If this utility makes your workflow easier, consider buying me a coffee — it directly supports building more free tools for creators:
 
 👉 **[Support GameRec on Ko-fi](https://ko-fi.com/gamerec)**
 
