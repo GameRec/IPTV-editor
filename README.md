@@ -24,12 +24,16 @@ A fast, lightweight, and clean desktop utility written in Python (Tkinter) desig
    python iptve.py
 Click Load M3U File, uncheck the categories you want to exclude, check your live stats, and save your clean playlist!
 
-Support & Contributing
-If this tool saved you time and you'd like to support its development, consider buying me a coffee:
+---
 
-Ko-fi: ko-fi.com/gamerec
+## Support the Project
 
-GitHub Sponsors: github.com/sponsors/trx90th
+If this plugin saves your clips and makes your workflow easier, consider buying me a coffee — it directly supports building more free tools for creators:
+
+👉 **[Support GameRec on Ko-fi](https://ko-fi.com/gamerec)**
+👉 **[GitHub Sponsors:] (github.com/sponsors/trx90th)**
+
+---
 
 License
 Distributed under the MIT License. See LICENSE for more information.
