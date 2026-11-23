@@ -32,7 +32,7 @@ If this plugin saves your clips and makes your workflow easier, consider buying 
 
 👉 **[Support GameRec on Ko-fi](https://ko-fi.com/gamerec)**
 
-👉 **[GitHub Sponsors:gamerec](https://github.com/sponsors/gamerec)**
+👉 **[GitHub Sponsors: GameRec](https://github.com/sponsors/gamerec)**
 
 ---
 
